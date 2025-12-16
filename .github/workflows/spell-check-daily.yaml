@@ -27,5 +27,5 @@ jobs:
           incremental-files-only: false
           cspell-json-url: https://raw.githubusercontent.com/f0reachARR/autoware-spell-check-dict/feature/cleanup-cspell/.cspell.json
           dict-packages: |
-            https://github.com/autowarefoundation/autoware-spell-check-dict
+            https://github.com/f0reachARR/autoware-spell-check-dict
             https://github.com/tier4/cspell-dicts
