@@ -29,4 +29,3 @@ jobs:
           dict-packages: |
             https://github.com/f0reachARR/autoware-spell-check-dict
             https://github.com/tier4/cspell-dicts
-            @cspell/cspell-bundled-dicts
